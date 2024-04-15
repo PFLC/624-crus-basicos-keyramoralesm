@@ -61,6 +61,26 @@ Este repositorio contiene una aplicación PHP CRUD (Create, Read, Update, Delete
 
 Esta aplicación es una demostración básica y no implementa medidas avanzadas de seguridad. Es recomendable utilizar declaraciones preparadas (prepared statements) u ORM para las interacciones con la base de datos para prevenir ataques de inyección SQL.
 
+## Funcionalidad en contexto PHP
+La funcionalidad de CRUD en PHP implica la creacion de formularios para interactuar con la base de datos, el procesamiento de datos ingresados por los usuarios y la ejecucion de consultas SQL para realizar operaciones básicas de creacion, lectura, actualización y eliminación de datos.
+
+## Importancia del trabajo de CRUD en PHP
+Es importante tener en cuenta la seguridad al trabajar con CRUD en PHP. Para evitar la inyección de SQL y otros tipos de ataques, es recomendable utilizar consultas preparadas o sanitizar adecuadamente las entradas de usuario antes de ejecutar consultas SQL.
+
+El CRUD en PHP es una habilidad esencial para desarrolladores web que desean construir aplicaciones dinámicas y escalables que interactúen con bases de datos.
+## VENTAJAS
+- Facilidad de implementación
+- Amplia compatibilidad con bases de datos
+- Gran cantidad de recursos y documentación
+- Rápido desarrollo de prototipos
+
+## DESVENTAJAS
+- Seguridad insuficiente
+- Rendimiento
+- Mantenimiento a largo plazo
+
+
+
 ---
 
 Siéntete libre de contribuir a este proyecto o sugerir mejoras. Para cualquier consulta o problema, por favor abre un issue en este repositorio.
